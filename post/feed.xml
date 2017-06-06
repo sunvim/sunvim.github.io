@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 清扬的驿站</title>
+    <link>http://sunvim.github.io/post/</link>
+    <description>Recent content in Posts on 清扬的驿站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 06 Jun 2017 21:41:45 +0800</lastBuildDate>
+    
+	<atom:link href="http://sunvim.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>聊聊监控(一) 起步</title>
+      <link>http://sunvim.github.io/post/prometheus-quickstart/</link>
+      <pubDate>Tue, 06 Jun 2017 21:41:45 +0800</pubDate>
+      
+      <guid>http://sunvim.github.io/post/prometheus-quickstart/</guid>
+      <description>为什么需要监控 在过去IT起步阶段，IT运维部门就是一个杂役部门，一个救火部门，平时就坐在办公室里喝喝茶看看报聊聊天，等待系统出问题,等待用户</description>
+    </item>
+    
+  </channel>
+</rss>
