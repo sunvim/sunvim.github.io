@@ -6,10 +6,19 @@
     <description>Recent content on 清扬的驿站</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 06 Jun 2017 21:41:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2017 21:12:39 +0800</lastBuildDate>
     
 	<atom:link href="http://sunvim.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>services</title>
+      <link>http://sunvim.github.io/post/services/</link>
+      <pubDate>Sat, 10 Jun 2017 21:12:39 +0800</pubDate>
+      
+      <guid>http://sunvim.github.io/post/services/</guid>
+      <description>今天聊聊服务类型，通常来说服务类型分三种，分别为在线服务、离线服务、批处理，下面分别说说这三种服务。 在线服务 在线服务一般来说一个客户端请求，</description>
+    </item>
     
     <item>
       <title>聊聊监控(一) 起步</title>
